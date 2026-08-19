@@ -62,7 +62,7 @@ The dashboard allows users to:
 
 
 
-![dashboard](Sales-Performance-Analysis-Dashboard.png)
+![dashboard](screenshots/Sales-Performance-Analysis-Dashboard.jpeg)
 
 
 ---
