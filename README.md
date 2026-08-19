@@ -60,7 +60,6 @@ The dashboard allows users to:
 
 ## Preview
 
-Add a screenshot of your dashboard here.
 
 
 ![Dashboard](Sales-Performance-Analysis-Dashboard.png)
